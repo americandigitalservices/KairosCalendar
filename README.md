@@ -1,4 +1,4 @@
-# Welcome to Booked Scheduler!
+# Welcome to Kairos Calendar!
 
 ## Announcement
 
@@ -18,7 +18,7 @@ To be added
 
 ## General Application Help
 
-Booked application help is available from the Help menu item.
+Kairos Calendar application help is available from the Help menu item.
 
 ## Release Notes
 
